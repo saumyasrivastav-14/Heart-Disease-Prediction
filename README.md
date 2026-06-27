@@ -4,15 +4,15 @@
 Heart disease is one of the leading causes of death worldwide. This project builds a supervised ML model to predict whether a patient has heart disease based on clinical attributes.
 
 ## Dataset
-- Source: UCI Machine Learning Repository — Cleveland Heart Disease Dataset
+- Source: UCI Machine Learning Repository - Cleveland Heart Disease Dataset
 - Link: https://archive.ics.uci.edu/dataset/45/heart+disease
 - Samples: 500 | Features: 13 | Target: Binary (0=No Disease, 1=Disease)
 
 ## Project Structure
-- data/ — Dataset (heart.csv)
-- model/ — Trained model (.pkl files)
-- notebook/ — Jupyter Notebook (.ipynb)
-- results/ — EDA plots, confusion matrix, evaluation graphs
+- data/ - Dataset (heart.csv)
+- model/ - Trained model (.pkl files)
+- notebook/ - Jupyter Notebook (.ipynb)
+- results/ - EDA plots, confusion matrix, evaluation graphs
 
 ## Models Used
 - Logistic Regression

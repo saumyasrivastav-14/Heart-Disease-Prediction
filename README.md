@@ -17,7 +17,7 @@ Heart disease is one of the leading causes of death worldwide. This project buil
 ## Models Used
 - Logistic Regression
 - Decision Tree
-- Random Forest (Best Model ✅)
+- Random Forest (Best Model)
 
 ## Results
 | Model | Accuracy | Precision | Recall | F1-Score |
